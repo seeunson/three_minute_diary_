@@ -3,6 +3,7 @@
 three_minute_diary_
 =======
 # three_minute_diary
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -18,4 +19,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> 8762b80 (초기 코드)
+=======
+=======
+three_minute_diary
+>>>>>>> 17da02a (Initial commit)
+>>>>>>> 6e310e2 (초기 코드)
